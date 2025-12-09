@@ -11,6 +11,10 @@ def Base_Stat_Gen(upper_lim,lower_lim):
         print(Base_stats)
     return Base_stats
 
+class Career:
+    Past_Career_Quantity = 0
+print(Base_Stat_Gen(12,2))
+
 class Character:
     STR = 0
     DEX = 0
@@ -22,7 +26,4 @@ class Character:
     RACE = "Human"
     CAREER = Career
 
-class Career:
-    Past_Career_Quantity = 0
-print(Base_Stat_Gen(12,2))
     
