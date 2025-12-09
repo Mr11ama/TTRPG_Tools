@@ -1,3 +1,6 @@
+import random
+import heapq
+
 def roll_2D(boon):
     effect = 0
     if boon > 0:
