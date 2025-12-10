@@ -1,0 +1,44 @@
+----------------------------------------------------------------
+World Name       Hex  Profile      Remarks
+----------------------------------------------------------------
+                 0101 C9BA757-B  S Fl
+                 0102 A344143-C  S Lo Ni                       G
+                 0103 C8C36A9-8    Fl Ni                       G
+                 0104 A3548CA-9                                G
+                 0105 B55157A-6 N  Ni Po                       G
+                 0107 C240144-5    De Lo Ni Po                 G
+                 0108 D584110-3    Lo Ni                       G
+                 0201 C310549-6  S Ni                          G
+                 0207 A373364-9 N  Lo Ni
+                 0209 C241510-6    Ni Po
+                 0303 D533496-8  S Lo Ni Po                    G
+                 0306 E758685-5    Ag Ni                       G
+                 0308 B336100-D N  Lo Ni                       G
+                 0309 C000875-6  S As Na Va                    G
+                 0402 B9555AA-7 N  Ag Ni                       G
+                 0404 C1006A9-8    Na Ni Va                    G
+                 0405 C66A403-C  S Lo Ni                       G
+                 0406 A335321-D N  Lo Ni                       G
+                 0407 B558200-A    Lo Ni                       G
+                 0501 C8C76AA-6  S Fl Ni                       G
+                 0504 C4449CA-A  S Hi In                       G
+                 0507 B000043-9 N  As Lo Ni Va                 G
+                 0508 AAA6521-D  S Fl Ni                       G
+                 0509 B571675-8    Ni                          G
+                 0510 B656443-B    Lo Ni                       G
+                 0601 A336276-F    Lo Ni
+                 0604 D511789-7  S Ic Na
+                 0606 B440300-D NS De Lo Ni Po                 G
+                 0609 D878556-3    Ag Ni                       G
+                 0701 E222161-8    Lo Ni Po                    G
+                 0705 B4346BA-7    Ni                          G
+                 0707 C5797CA-7                                G
+                 0801 D41078A-5  S Na                          G
+                 0802 C66589A-8  S Ri                          G
+                 0803 D564777-6  S Ag Ri                       G
+                 0804 B591434-8  S Lo Ni                       G
+                 0806 D465778-6    Ag Ri                       G
+                 0807 B422102-E NS Lo Ni Po                    G
+                 0808 B230668-8 NS De Na Ni Po                 G
+                 0809 X300568-0    Ni Va                       G
+----------------------------------------------------------------
