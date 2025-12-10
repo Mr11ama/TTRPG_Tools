@@ -9,6 +9,8 @@ class Character:
         self.skills = self.Skills()
         self.age = 18
         self.term = 1
+        print("Name: ", self.name, "| Age: ", self.age)
+        print("STR: ",self.stats.STR,"\nDEX: ",self.stats.DEX,"\nEND: ",self.stats.END,"\nINT: ",self.stats.INT,"\nEDU: ",self.stats.EDU,"\nSOC: ",self.stats.SOC)
         self.Pick_Background_Skills()
 
     class Characteristics:
@@ -72,8 +74,12 @@ class Character:
             self.Vacc_Suit = None
 
     def Pick_Background_Skills(self):
-        Max_B_Skills = self.DM.EDU + 3
-        #print(Max_B_Skills)
+        Max_Background_Skills = self.DM.EDU + 3
+        print(f"Based on your education up to now, you may pick {Max_Background_Skills} background skills",)
+        i = 0
+        while i < Max_Background_Skills:
+            #print(Max_Background_Skills)
+            i += 1
 
 
 
