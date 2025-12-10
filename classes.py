@@ -3,6 +3,12 @@ from functions import roll_2D
 
 
 class Character:
+    def __init__(self, name):
+        self.name = name
+        self.stats = self.Characteristics()
+        self.age = 18
+        self.term = 1
+    
     class Characteristics:
         def __init__(self):
             self.STR = roll_2D(0)
@@ -12,11 +18,9 @@ class Character:
             self.EDU = roll_2D(0)
             self.SOC = roll_2D(0)
 
-    def __init__(self, name):
-        self.name = name
-        self.stats = self.Characteristics()
-        self.age = 18
-        self.term = 1
+    
+
+    
 
 
 
