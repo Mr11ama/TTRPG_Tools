@@ -1,4 +1,6 @@
 import random
+from classes import Character
+from functions import roll_2D
 
 def TwoD_roll():
     return random.randint(2,12)
@@ -11,18 +13,8 @@ def Base_Stat_Gen(upper_lim,lower_lim):
         print(Base_stats)
     return Base_stats
 
-class Character:
-    STR = 0
-    DEX = 0
-    END = 0
-    INT = 0
-    EDU = 0
-    SOC = 0
-    NAME = ""
-    RACE = "Human"
-    CAREER = Career
+#print(Base_Stat_Gen(12,2))
+#print(roll_2D(0))
 
-class Career:
-    Past_Career_Quantity = 0
-print(Base_Stat_Gen(12,2))
-    
+p1 = Character("Jimothy Jhalomet")
+print(p1)
