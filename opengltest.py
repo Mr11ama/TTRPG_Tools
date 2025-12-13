@@ -33,8 +33,6 @@ verticies = [
 for i in range(len(verticies)):
     verticies[i] = Rx(verticies[i], m.tan(1/2))
 
-print(verticies)
-
 edges = (
     (0, 5),
     (0, 4),
